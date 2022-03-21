@@ -2,7 +2,7 @@
 
 using Day14Demo.WaiTech;
 
-var resumeForm = new ResumeForm("Aniket Bhosale - WorldLineResume Application Form", 10, 4);
+var resumeForm = new ResumeForm("Divyanshu Dubey - WorldLineResume Application Form", 10, 4);
 resumeForm.Show();
 resumeForm.StartInput();
 
