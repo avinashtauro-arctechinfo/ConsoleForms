@@ -8,8 +8,7 @@ var resumeForm = new ResumeForm("WorldLineResume Application Form Cherubin Chatt
 =======
 var resumeForm = new ResumeForm("Divyanshu Dubey - WorldLineResume Application Form", 10, 4);
 =======
-var resumeForm = new ResumeForm("Ayushi Tiwari WorldLineResume Application Form ", 10, 4);
-=======
+
 
 resumeForm.Show();
 resumeForm.StartInput();
